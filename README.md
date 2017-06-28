@@ -24,14 +24,17 @@ Chrome extension to add selected text to a to do list!
 Feel free to use this code and make it better however, wherever.
 
 # credits
-This extension’s browser icon is an edit of Garrett Knoll’s creation found here: https://thenounproject.com/term/text-cursor/49668/.
-The css in the popup page was adapted from the tutorial found here: http://tobyho.com/2011/02/25/making-a-morning-checklist-out/.
-The popup page uses Pantone 2016 Color of the Year “Serenity”.
-To do list functionality was implemented with help from http://code-maven.com/todo-in-html-and-javascript.
-Special characters were dealt with using a function from http://stackoverflow.com/questions/1787322/htmlspecialchars-equivalent-in-javascript.  
+* This extension’s browser icon is an edit of Garrett Knoll’s creation found here: https://thenounproject.com/term/text-cursor/49668/.
+* The css in the popup page was adapted from the tutorial found here: http://tobyho.com/2011/02/25/making-a-morning-checklist-out/.
+* The popup page uses Pantone 2016 Color of the Year “Serenity”.
+* To do list functionality was implemented with help from http://code-maven.com/todo-in-html-and-javascript.
+* Special characters were dealt with using a function from http://stackoverflow.com/questions/1787322/htmlspecialchars-equivalent-in-javascript.  
 
 SPECIAL THANKS to
+
 ~ CS50 TFs Peter Chang and Kevin Zhang ~
+
 ~ CS Rock Star James Lennon ~
+
 ~ All-Knowing Google ~
 
